@@ -1,5 +1,11 @@
 # 💫 About Me:
-Engineer at heart, crafting scalable systems, automating workflows, and optimizing code for performance. Pushing boundaries in software development, one line of code at a time. 🤖
+<h3 align="center" style="font-family: 'Fira Code', monospace; color: #00ADB5;">
+  <strong>
+    Engineer at heart, crafting scalable systems, automating workflows, and optimizing code for performance.<br>
+    Pushing boundaries in software development, one line of code at a time. 🤖
+  </strong>
+</h3>
+
 
 
 # 💻 Tech Stack:
