@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on full-stack development, <br>data structures, algorithms, and competitive programming<br> to build scalable applications and enhance problem-solving<br> skills.<br>
+Engineer at heart, crafting scalable systems, automating workflows, and optimizing code for performance. Pushing boundaries in software development, one line of code at a time. 🤖
 
 
 # 💻 Tech Stack:
